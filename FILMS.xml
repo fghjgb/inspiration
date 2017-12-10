@@ -2,80 +2,73 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]•[/COLOR][COLOR gold] TDT [/B][/COLOR]</name>
-<thumbnail>http://upimagens.com/di/4EPD/channels.png</thumbnail>
+<name>[B][COLOR gold]TRAILERS[/B][/COLOR]</name>
+<thumbnail>http://upimagens.com/di/5T7A/trailers.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Canais Portugueses e Internacionais de Sinal Aberto</info>
+<info>Trailers de Filmes</info>
 </subitem>
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR][COLOR gold] PORTUGAL TV[/B][/COLOR]</title>
+<title>[B][COLOR gold]TRAILERS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://upimagens.com/di/4EPD/channels.png</thumbnail>
+<thumbnail>http://upimagens.com/di/5T7A/trailers.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Canais Portugueses e Internacionais</info>
-<externallink>https://pastebin.com/raw/Gg3fvRWA</externallink>
+<info>Trailers de Filmes</info>
+<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/TRAILES</externallink>
 </item>
 
 
 <channels>
 <channel>
-<name>[B][COLOR lime]•[/COLOR][COLOR gold][COLOR lavenderblush] Inspir[COLOR gold]@[/COLOR]tion[/COLOR] PT [/B][/COLOR]</name>
-<thumbnail>http://upimagens.com/di/4EPD/channels.png</thumbnail>
+<name>[B][COLOR gold]MOVIES 2017[/B][/COLOR]</name>
+<thumbnail>http://upimagens.com/di/DI0V/Airportetgg.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Varias listas, fontes de Canais Portugueses. Sao canais de teste, (temporários)</info>
+<info>Filmes Recentes</info>
 </subitem>
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR][COLOR gold] PORTUGAL TV[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://upimagens.com/di/4EPD/channels.png</thumbnail>
+<title>[B][COLOR gold]MOVIE RELEASE[/B][/COLOR]</title>
+<link>https://pastebin.com/raw/g5wXz0QG</link>
+<thumbnail>http://upimagens.com/di/DI0V/Airportetgg.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Canais Portugueses e Internacionais</info>
-<externallink>https://pastebin.com/raw/GQSV7rH3</externallink>
+<info>Filmes Recentes</info>
+<externallink>https://pastebin.com/raw/fWXHJew9</externallink>
 </item>
-
 
 <channels>
 <channel>
-<name>[B][COLOR lime]•[/COLOR][COLOR gold][COLOR lavenderblush] DAILY[/COLOR] IPTV PT [/B][/COLOR]</name>
-<thumbnail>https://www.dailyiptvlist.com/wp-content/uploads/2017/02/logo0003.png</thumbnail>
+<name>[B][COLOR gold]VINTAGE FILMS[/B][/COLOR]</name>
+<thumbnail>https://upimagens.com/di/IJ29/vintage_films.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Fontes de listas PT do site Daily iptv List</info>
+<info>Filmes Antigos</info>
 </subitem>
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR][COLOR gold] DAILY TV[/B][/COLOR]</title>
+<title>[B][COLOR gold]VINTAGE FILMS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://www.dailyiptvlist.com/wp-content/uploads/2017/02/logo0003.png</thumbnail>
+<thumbnail>https://upimagens.com/di/IJ29/vintage_films.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Canais Portugueses e Internacionais</info>
-<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/ServerDailyPT</externallink>
+<info>Filmes Antigos</info>
+<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/FILMS_VINTAGE.xml</externallink>
 </item>
-
-
-
 
 <channels>
 <channel>
-<name>[B][COLOR lime]•[/COLOR][COLOR gold] ISTO SO VIDEO[/B][/COLOR]</name>
-<thumbnail>http://upimagens.com/di/BW9L/loool.png</thumbnail>
+<name>[B][COLOR gold]MADE IN PT[/B][/COLOR]</name>
+<thumbnail>http://upimagens.com/di/HBRH/made_in_pt.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Canais do Youtube onde o melhor remedio é rir ate cair</info>
+<info>Filmes Portugueses</info>
 </subitem>
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR][COLOR gold] É SO RIR[/B][/COLOR]</title>
+<title>[B][COLOR gold]MADE IN PT[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://upimagens.com/di/BW9L/loool.png</thumbnail>
+<thumbnail>http://upimagens.com/di/HBRH/made_in_pt.png</thumbnail>
 <fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Canais do Youtube onde o melhor remedio é rir ate cair</info>
-<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/LOOOOL.xml</externallink>
+<info>Filmes Portugueses</info>
+<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/CINEMA_PORTUGUES.xml</externallink>
 </item>
-
-
-
