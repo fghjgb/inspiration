@@ -1,133 +1,341 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channels>
-<channel>
-<name>[B][COLOR gold] Trailers [/B][/COLOR]</name>
-<thumbnail>http://upimagens.com/di/5T7A/trailers.png</thumbnail>
-<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Trailers de Filmes</info>
-</subitem>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
-<title>[B][COLOR gold] TRAILERS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://upimagens.com/di/5T7A/trailers.png</thumbnail>
-<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Trailers de Filmes</info>
-<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/TRAILES</externallink>
-</item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]1[/B][/COLOR][COLOR olive] sportsdevil [/COLOR]</title>
+<sportsdevil>http://sportsonline.pw/channels/pt/sporttv1.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://sck.pm/Hw</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
 
-
-<channels>
-<channel>
-<name>[B][COLOR white] Inspir[COLOR red]@[/COLOR]tion [COLOR darkblue]M[/COLOR]ovies [/B][/COLOR]</name>
-<thumbnail>https://s7.postimg.org/5et6kaw8b/cinemainfantil.png</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info>Filmes Recentes Legendados em pt-pt ou em pt-br. Audio em filmes de Animação contem audio pt-pt ou pt-br. Contem tambem documentários</info>
-</subitem>
-</item>
 
 <item>
-<title>[B][COLOR gold]MOVIE RELEASE[/B][/COLOR]</title>
-<link>https://pastebin.com/raw/g5wXz0QG</link>
-<thumbnail>https://s7.postimg.org/5et6kaw8b/cinemainfantil.png</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info>Filmes Recentes Legendados em pt-pt ou em pt-br. Audio em filmes de Animaçao contem audio pt-pt ou pt-br. Contem tambem documentários</info>
-<externallink>https://pastebin.com/raw/g5wXz0QG</externallink>
-</item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]1[/B][/COLOR][COLOR olive] sportsdevil [/COLOR]</title>
+<sportsdevil>https://www.firstonetv.net/Live/Portugal/SPORT-TV-1-13</sportsdevil>
+<referer></referer>
+<thumbnail>https://sck.pm/Hw</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
 
 
-
-<channels>
-<channel>
-<name>[B][COLOR white] P[COLOR red]y[/COLOR]ramid [COLOR darkblue]M[/COLOR]ovies [/B][/COLOR]</name>
-<thumbnail>http://www.wallpapermania.eu/images/lthumbs/2013-03/4528_Abstract-gateway-to-space.jpg</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info>Filmes Recentes oriundos do [COLORlime]Pyramind[/COLOR].</info>
-</subitem>
-</item>
 
 <item>
-<title>[B][COLOR gold]MOVIE RELEASE[/B][/COLOR]</title>
-<link>https://pastebin.com/raw/g5wXz0QG</link>
-<thumbnail>http://www.wallpapermania.eu/images/lthumbs/2013-03/4528_Abstract-gateway-to-space.jpg</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info></info>
-<externallink>https://sck.pm/pyramid</externallink>
-</item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]1[/B][/COLOR][COLOR olive] magellan [/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]:8088/adfree/sportvportugal1/playlist.m3u8?id=1776&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.pubfstream.com:1935/loadbalancer</page>
+</regex><regex><name>Igor_Rangel_Pk</name><expres>pk=(.*?)"</expres>
+<page>http://www.fstream.me/membedplayer/Igor_Rangel/1/677/386</page>
+<referer>http://www.fstream.me/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://sck.pm/Hw</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
 
 
-<channels>
-<channel>
-<name>[B][COLOR white] Mr. [COLOR red]P[/COLOR]iracy [COLOR darkblue]M[/COLOR]ovies [/B][/COLOR]</name>
-<thumbnail>https://s7.postimg.org/b0flodccr/icon.png</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info>Filmes Recentes oriundos do [COLORlime]Addon MrPiracy[/COLOR]. Precisam de ter o respectivo addon instalado, e, depois terão que fazer login no Addon com a vossa conta que se registaram no site.</info>
-</subitem>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
-<title>[B][COLOR gold]MOVIE RELEASE[/B][/COLOR]</title>
-<link>https://pastebin.com/raw/g5wXz0QG</link>
-<thumbnail>https://s7.postimg.org/b0flodccr/icon.png</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info></info>
-<externallink>https://pastebin.com/raw/izAviTH8</externallink>
-</item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]2[/B][/COLOR][COLOR olive] sportsdevil [/COLOR]</title>
+<sportsdevil>http://sportsonline.pw/channels/pt/sporttv2.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://sck.pm/58</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
 
-
-<channels>
-<channel>
-<name>[B][COLOR white] Spe[COLOR red]C[/COLOR]tro [COLOR darkblue]M[/COLOR]ovies [/B][/COLOR]</name>
-<thumbnail>https://s17.postimg.org/b6y1frxz3/icon.png</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info>Filmes Recentes oriundos do [COLORlime]Addon Spectro[/COLOR]. Precisam de ter o respectivo addon instalado.</info>
-</subitem>
-</item>
 
 <item>
-<title>[B][COLOR gold]MOVIE RELEASE[/B][/COLOR]</title>
-<link>https://pastebin.com/raw/g5wXz0QG</link>
-<thumbnail>https://s17.postimg.org/b6y1frxz3/icon.png</thumbnail>
-<fanart>https://s17.postimg.org/xivu9828v/fanart.jpg</fanart>
-<info></info>
-<externallink>https://pastebin.com/raw/RQLLt6pT</externallink>
-</item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]2[/B][/COLOR][COLOR olive] magellan [/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]:8088/adfree/sportvportugal2/playlist.m3u8?id=1776&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.pubfstream.com:1935/loadbalancer</page>
+</regex><regex><name>Igor_Rangel_Pk</name><expres>pk=(.*?)"</expres>
+<page>http://www.fstream.me/membedplayer/Igor_Rangel/1/677/386</page>
+<referer>http://www.fstream.me/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://sck.pm/58</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
 
 
-<channels>
-<channel>
-<name>[B][COLOR gold]Vintage Films[/B][/COLOR]</name>
-<thumbnail>https://upimagens.com/di/IJ29/vintage_films.png</thumbnail>
-<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Filmes Antigos</info>
-</subitem>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
-<title>[B][COLOR gold]VINTAGE FILMS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://upimagens.com/di/IJ29/vintage_films.png</thumbnail>
-<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Filmes Antigos</info>
-<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/FILMS_VINTAGE.xml</externallink>
-</item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]3[/B][/COLOR][COLOR olive] sportsdevil [/COLOR]</title>
+<sportsdevil>http://sportsonline.pw/channels/pt/sporttv3.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://sck.pm/9M</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
 
-<channels>
-<channel>
-<name>[B][COLOR gold]Made In PT[/B][/COLOR]</name>
-<thumbnail>http://upimagens.com/di/HBRH/made_in_pt.png</thumbnail>
-<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Filmes Portugueses</info>
-</subitem>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
-<title>[B][COLOR gold]MADE IN PT[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://upimagens.com/di/HBRH/made_in_pt.png</thumbnail>
-<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
-<info>Filmes Portugueses</info>
-<externallink>https://raw.githubusercontent.com/fghjgb/inspiration/master/CINEMA_PORTUGUES.xml</externallink>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]4[/B][/COLOR][COLOR olive] sportsdevil [/COLOR]</title>
+<sportsdevil>http://sportsonline.pw/channels/pt/sporttv4.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]5[/B][/COLOR][COLOR olive] sportsdevil [/COLOR]</title>
+<sportsdevil>http://sportsonline.pw/channels/pt/sporttv5.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://sck.pm/aAr</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
+
+
+
+
+<item>
+<title>[B][COLOR red]•[/COLOR][COLOR lavenderblush] SP[COLOR gold]O[/COLOR]RT [COLOR gold]•[/COLOR] TV [COLOR gold]5[/B][/COLOR][COLOR olive] (magellan) [/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sp5ya?id=94529&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.ucaster.me/embedplayer/sp5ya/1/600/400</link><regex><name>get-ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>get-pk</name><expres>pk=(.*?)'</expres><page>http://www.ucaster.me/embedplayer/sp5ya/1/600/400</page><referer>http://www.ucaster.me/</referer>
+<thumbnail>https://sck.pm/aAr</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[B][COLOR darkorange]•[/COLOR][COLOR red] B[/COLOR]TV1[/B][COLOR olive] magellan [/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]:8088/adfree/benficatv1/playlist.m3u8?id=1778&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
+<regex><name>Igor_Rangel_IP</name><expres>redirect=(.*)<expres>
+<page>http://www.pubfstream.com:1935/loadbalancer</page></regex><regex>
+<name>Igor_Rangel_Pk</name><expres>pk=(.*?)"</expres>
+<page>http://www.fstream.me/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.fstream.me/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png</thumbnail>
+<fanart>https://upimagens.com/di/VNZL/fanart_simpletv.jpg</fanart></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLORred][B]Sport Klub [COLORwhite]1[/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-klub-1-uzivo-televizija/</sportsdevil>
+<referer></referer>
+https://screenshots.firefoxusercontent.com/images/d8348b37-1474-4c01-9f59-db0bd7a7ff2c.png
+<fanart></fanart>
 </item>
+<item>
+<title>[COLORred][B]Sport Klub [COLORwhite]2[/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-klub-2-uzivo-televizija-sport-klub-2-hd/</sportsdevil>
+<referer></referer>
+https://screenshots.firefoxusercontent.com/images/d8348b37-1474-4c01-9f59-db0bd7a7ff2c.png
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]Sport Klub [COLORwhite]3[/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-klub-3-uzivo-televizija-sport-klub-3-live-stream/</sportsdevil>
+<referer></referer>
+https://screenshots.firefoxusercontent.com/images/d8348b37-1474-4c01-9f59-db0bd7a7ff2c.png
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]Sport Klub [COLORwhite]4[/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-klub-4-uzivo-stream-sport-klub-4-live-online/</sportsdevil>
+<referer></referer>
+https://screenshots.firefoxusercontent.com/images/d8348b37-1474-4c01-9f59-db0bd7a7ff2c.png
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]Sport Klub [COLORwhite]5[/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-klub-5-uzivo-stream-sport-klub-5-live-online/</sportsdevil>
+<referer></referer>
+https://screenshots.firefoxusercontent.com/images/d8348b37-1474-4c01-9f59-db0bd7a7ff2c.png
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]Sport Klub [COLORwhite]6[/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-klub-6-uzivo-stream-sport-klub-6-live-online/</sportsdevil>
+<referer></referer>
+https://screenshots.firefoxusercontent.com/images/d8348b37-1474-4c01-9f59-db0bd7a7ff2c.png
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inspi[я]ation Links © 2017 All rights reserved
