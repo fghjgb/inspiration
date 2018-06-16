@@ -1,0 +1,18 @@
+?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow]MOVIES[/COLOR]</title>
+<thumbnail>https://s17.postimg.org/b6y1frxz3/icon.png</thumbnail>
+<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
+<link>http://fuckyou</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TOOLS[/COLOR]</title>
+<thumbnail>https://s17.postimg.org/b6y1frxz3/icon.png</thumbnail>
+<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
+<link>http://fuckyou</link>
+<jsonrpc>plugin://plugin.video.specto/?action=toolNavigator</jsonrpc>
+</item>
