@@ -1,0 +1,9 @@
+?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow]MOVIES[/COLOR]</title>
+<thumbnail>https://s7.postimg.org/b0flodccr/icon.png</thumbnail>
+<fanart>https://upimagens.com/di/JIBP/fanart.jpg</fanart>
+<link>http://fuckyou</link>
+<jsonrpc>plugin://plugin.video.mrpiracy/?action=movieNavigator</jsonrpc>
+</item>
